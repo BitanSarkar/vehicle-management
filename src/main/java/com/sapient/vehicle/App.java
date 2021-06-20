@@ -48,8 +48,7 @@ public class App {
 	}
 
 	public static void main(String[] args) {
-		while (updateDB() == 1)
-			;
+		//while (updateDB() == 1);
 		getDimensions(obj);
 	}
 }
